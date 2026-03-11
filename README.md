@@ -68,8 +68,16 @@
 
 ### Important submission / operating implications
 - 산출물은 **영어 및 러시아어** 기준 제출 필요
+- 계약 전 `Design Implementation Plan` 제출 요구가 보임
+- PM 및 참여 엔지니어 인력의 CV/자격 자료 제출 요구가 보임
+- 설계 완료 목표는 계약 효력 발생일 기준 **9개월 이내**
 - 현지입찰 특성상 현지 등록, 법적 요건, 파트너 조건을 별도 점검해야 함
 - 공사 발주 이전 단계의 설계/감리와 입찰지원 성격이 강함
+
+### Additional RFP signals
+- KOICA/CM 구조 하에서 consultant가 contractor 선정 지원과 공사 단계 기술행정 지원까지 관여
+- 발주 준비를 위한 addenda 작성, bidder document review, contractor unit price review까지 범위가 확장됨
+- 기대 인력 수준이 높아 PM(Architect 15년+), Architect 10년+, 다수 기술엔지니어 7년+ 수준의 team 구성이 암시됨
 
 ### Why this matters for Ubion
 - `디지털 전환`
@@ -119,6 +127,7 @@
 ### Analysis
 - `analysis/opportunity-brief.md`
 - `analysis/project-status.md`
+- `analysis/rfp-key-takeaways.md`
 
 ### Archive
 - `archive/collection-log.md`
