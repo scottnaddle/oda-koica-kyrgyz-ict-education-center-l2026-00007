@@ -139,6 +139,7 @@
 - [`drafts/newsletter-draft.md`](./drafts/newsletter-draft.md)
 - [`drafts/proposal-draft-v0.1.md`](./drafts/proposal-draft-v0.1.md)
 - [`drafts/full-proposal-body-draft.md`](./drafts/full-proposal-body-draft.md)
+- [`drafts/proposal-package-plan.md`](./drafts/proposal-package-plan.md)
 
 ## Links
 - KOICA list page: https://nebid.koica.go.kr/oep/lobi/localBidManageList.do
