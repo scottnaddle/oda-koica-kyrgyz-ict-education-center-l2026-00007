@@ -69,16 +69,48 @@
 다만 실제 수행 구조상 설계·감리 역량이 핵심이므로,
 유비온은 직접 단독 수행보다는 적절한 파트너링 구조 안에서 교육/디지털 전략 맥락과 운영적 가치를 연결하는 방식이 더 자연스러울 수 있다.
 
-## 8. 추가 확인 필요
-- BDS/ITB 기준 참가 자격요건
-- 현지 등록 및 파트너 의무 여부
-- 인력별 필수 자격 수준
-- 러시아어 산출물 수준 및 번역 부담
-- 유비온이 proposal narrative에서 실제 차별화할 수 있는 포인트
+## 8. 자격요건 / 컴플라이언스 보강 (v0.2 반영)
+현재 BDS/ITB 기준으로 확인된 핵심 qualification 포인트는 아래와 같다.
+- Joint Venture: **Not allowed**
+- Bidder는 적법하게 설립된 entity여야 함
+- Kyrgyz Republic 정부 산하 기관 발급 **design license level 3 이상** 필요
+- bid security는 **bid amount의 5% 이상**
+- Technical 85점 이상이어야 협상 대상 진입 가능
+- 제출물은 hard copy 2부 + USB 1세트, 방문 제출 방식
 
-## 9. 다음 초안 단계
-다음 버전(v0.2)에서는 아래를 보강해야 한다.
-1. qualification/compliance 요약표
-2. scope/deliverables 요약표
-3. partnering hypothesis
-4. go / conditional go / no-go 판단 메모
+이 조건들은 유비온 단독 참여 가능성을 낮추고, 현지 적격 entity / license holder 구조 검토를 우선 과제로 만든다.
+
+## 9. scope / deliverables 보강 (v0.2 반영)
+문서 기준 실제 과업은 아래로 구조화된다.
+- Preliminary survey / site investigation / layout options
+- SD / DD / CD 단계 설계
+- drawings / specs / BoQ / cost estimate / calculations
+- permit 및 행정 대응
+- bidding support / contractor selection support
+- author’s supervision / weekly-monthly-completion reports
+
+즉, 이 사업은 설계 consultant + tender support + construction-phase technical administration 성격이 강하다.
+
+## 10. v0.2 기준 go / no-go 판단 메모
+### Positive
+- 전략 키워드는 매우 강함: 디지털 전환, 국가 정보화, ICT 교육센터
+- 교육/연구시설 설계 실적 프레임과 일부 맞닿는 지점이 있음
+- 향후 유사 기회 탐지 기준 샘플 가치가 높음
+
+### Negative / gating
+- JV 불가
+- Kyrgyz local design license level 3+ 요구
+- 설계/감리/MEP 중심 범위
+- bilingual(English/Russian) deliverables 부담
+
+### Current recommendation
+- **conditional go / conservative**
+- 현지 적격 license holder 및 참여 구조 해석 전까지는 full go보다 보수적 접근이 맞다.
+- 실무적으로는 `직접 주도형 제안`보다 `파트너 구조 전제 검토` 또는 `전략 샘플 유지`가 더 현실적이다.
+
+## 11. 다음 초안 단계
+다음 버전에서는 아래를 보강해야 한다.
+1. local eligibility structure 확인 메모
+2. PM/personnel minimum requirement 정리
+3. partnering hypothesis 구체화
+4. go / conditional go / no-go decision note 확정
