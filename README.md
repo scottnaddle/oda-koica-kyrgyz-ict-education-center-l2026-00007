@@ -128,6 +128,9 @@
 - [`analysis/opportunity-brief.md`](./analysis/opportunity-brief.md)
 - [`analysis/project-status.md`](./analysis/project-status.md)
 - [`analysis/rfp-key-takeaways.md`](./analysis/rfp-key-takeaways.md)
+- [`analysis/manager-brief.md`](./analysis/manager-brief.md)
+- [`analysis/qualification-compliance-summary.md`](./analysis/qualification-compliance-summary.md)
+- [`analysis/scope-deliverables-summary.md`](./analysis/scope-deliverables-summary.md)
 
 ### Archive
 - [`archive/collection-log.md`](./archive/collection-log.md)
