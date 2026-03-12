@@ -116,24 +116,24 @@
 
 ## Key documents
 ### Source
-- `source/notice/source-access.md`
-- `source/attachments/0. Cheklist for bidders documents.docx`
-- `source/attachments/Section 1 - Instructions to Bidders (ITB).docx`
-- `source/attachments/Section 2 - Bid Data Sheet (BDS).docx`
-- `source/attachments/Section 4 - Request for Proposal (RFP).doc`
-- `source/attachments/Section 5 - Terms of Reference (ToR).docx`
-- `source/attachments/Section 6 (Annex 1) Space Program MM.pdf`
+- [`source/notice/source-access.md`](./source/notice/source-access.md)
+- [`0. Cheklist for bidders documents.docx`](./source/attachments/0.%20Cheklist%20for%20bidders%20documents.docx)
+- [`Section 1 - Instructions to Bidders (ITB).docx`](./source/attachments/Section%201%20-%20Instructions%20to%20Bidders%20(ITB).docx)
+- [`Section 2 - Bid Data Sheet (BDS).docx`](./source/attachments/Section%202%20-%20Bid%20Data%20Sheet%20(BDS).docx)
+- [`Section 4 - Request for Proposal (RFP).doc`](./source/attachments/Section%204%20-%20Request%20for%20Proposal%20(RFP).doc)
+- [`Section 5 - Terms of Reference (ToR).docx`](./source/attachments/Section%205%20-%20Terms%20of%20Reference%20(ToR).docx)
+- [`Section 6 (Annex 1) Space Program MM.pdf`](./source/attachments/Section%206%20(Annex%201)%20Space%20Program%20MM.pdf)
 
 ### Analysis
-- `analysis/opportunity-brief.md`
-- `analysis/project-status.md`
-- `analysis/rfp-key-takeaways.md`
+- [`analysis/opportunity-brief.md`](./analysis/opportunity-brief.md)
+- [`analysis/project-status.md`](./analysis/project-status.md)
+- [`analysis/rfp-key-takeaways.md`](./analysis/rfp-key-takeaways.md)
 
 ### Archive
-- `archive/collection-log.md`
+- [`archive/collection-log.md`](./archive/collection-log.md)
 
 ### Drafts
-- `drafts/newsletter-draft.md`
+- [`drafts/newsletter-draft.md`](./drafts/newsletter-draft.md)
 
 ## Links
 - KOICA list page: https://nebid.koica.go.kr/oep/lobi/localBidManageList.do
