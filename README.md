@@ -3,7 +3,7 @@
 ## Project summary
 - **기관:** KOICA Office in the Kyrgyz Republic
 - **사업명:** The Design and Author Supervision Services for the Construction of ICT Education Center for “The Project for Capacity Building of National Information for Digital Transformation in the Kyrgyz Republic”
-- **현재 단계:** `on-hold`
+- **현재 단계:** `approved`
 - **공고번호:** `L2026-00007-1`
 - **Notice ID:** `L2026-00007`
 - **국가/지역:** 키르기스스탄 / Bishkek
