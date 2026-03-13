@@ -139,6 +139,13 @@
 - [`pm/project-status.md`](./pm/project-status.md)
 - [`pm/communication-log.md`](./pm/communication-log.md)
 - [`pm/budget-tracker.md`](./pm/budget-tracker.md)
+- [`pm/decision-log.md`](./pm/decision-log.md)
+
+### Deliverables
+- [`deliverables/deliverables-inventory.md`](./deliverables/deliverables-inventory.md)
+
+### Meetings
+- [`meetings/kickoff-meeting-notes.md`](./meetings/kickoff-meeting-notes.md)
 
 ### Archive
 - [`archive/collection-log.md`](./archive/collection-log.md)
