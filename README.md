@@ -134,6 +134,7 @@
 
 ### PM
 - [`pm/project-execution-plan.md`](./pm/project-execution-plan.md)
+- [`pm/wbs.md`](./pm/wbs.md)
 
 ### Archive
 - [`archive/collection-log.md`](./archive/collection-log.md)
