@@ -135,6 +135,10 @@
 ### PM
 - [`pm/project-execution-plan.md`](./pm/project-execution-plan.md)
 - [`pm/wbs.md`](./pm/wbs.md)
+- [`pm/risk-issue-log.md`](./pm/risk-issue-log.md)
+- [`pm/project-status.md`](./pm/project-status.md)
+- [`pm/communication-log.md`](./pm/communication-log.md)
+- [`pm/budget-tracker.md`](./pm/budget-tracker.md)
 
 ### Archive
 - [`archive/collection-log.md`](./archive/collection-log.md)
