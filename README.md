@@ -140,12 +140,15 @@
 - [`pm/communication-log.md`](./pm/communication-log.md)
 - [`pm/budget-tracker.md`](./pm/budget-tracker.md)
 - [`pm/decision-log.md`](./pm/decision-log.md)
+- [`pm/weekly-status-update.md`](./pm/weekly-status-update.md)
 
 ### Deliverables
 - [`deliverables/deliverables-inventory.md`](./deliverables/deliverables-inventory.md)
+- [`deliverables/README.md`](./deliverables/README.md)
 
 ### Meetings
 - [`meetings/kickoff-meeting-notes.md`](./meetings/kickoff-meeting-notes.md)
+- [`meetings/weekly-meeting-template.md`](./meetings/weekly-meeting-template.md)
 
 ### Archive
 - [`archive/collection-log.md`](./archive/collection-log.md)
