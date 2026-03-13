@@ -132,6 +132,9 @@
 - [`analysis/qualification-compliance-summary.md`](./analysis/qualification-compliance-summary.md)
 - [`analysis/scope-deliverables-summary.md`](./analysis/scope-deliverables-summary.md)
 
+### PM
+- [`pm/project-execution-plan.md`](./pm/project-execution-plan.md)
+
 ### Archive
 - [`archive/collection-log.md`](./archive/collection-log.md)
 
